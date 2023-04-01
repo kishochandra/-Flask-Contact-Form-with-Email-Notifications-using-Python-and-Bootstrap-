@@ -21,3 +21,5 @@ This is a simple contact form built with Flask and Bootstrap. It sends an email 
 ##Note: Before running the code, make sure to install the required packages by running the command 
 pip install flask flask-mail. Also, replace 'your-email@gmail.com'
 and 'your-email-password' in the app.py file with your own email credentials and sender address.
+
+
